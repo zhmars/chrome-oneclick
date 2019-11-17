@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "一键管理所有扩展",
+    "description": "Extension name."
+  },
+  "appDesc": {
+    "message": "一键管理所有扩展",
+    "description": "Extension name."
+  },
+  "leftclicktodisablethis": {
+    "message": "单击左键禁用该扩展，",
+    "description": "Left-click to disable this extension or "
+  },
+  "leftclicktoenablethis": {
+    "message": "单击左键启用该扩展，",
+    "description": "Left-click to enable this extension or "
+  },
+  "rightclicktouninstallthis": {
+    "message": "单击右键卸载该扩展",
+    "description": "Right-click to uninstall this extension."
+  }
+}

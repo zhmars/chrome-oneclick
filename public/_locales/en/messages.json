@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "OneClick Extensions Manager",
+    "description": "Extension name."
+  },
+  "appDesc": {
+    "message": "OneClick Extensions Manager",
+    "description": "Extension description."
+  },
+  "leftclicktodisablethis": {
+    "message": "Left-click to disable this extension or ",
+    "description": "Left-click to disable this extension or "
+  },
+  "leftclicktoenablethis": {
+    "message": "Left-click to enable this extension or ",
+    "description": "Left-click to enable this extension or "
+  },
+  "rightclicktouninstallthis": {
+    "message": "Right-click to uninstall this extension.",
+    "description": "Right-click to uninstall this extension."
+  }
+}
