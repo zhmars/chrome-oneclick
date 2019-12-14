@@ -5,6 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "build-crx": "node scripts/build-crx.js",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {

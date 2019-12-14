@@ -16,6 +16,5 @@
     "default_title": "__MSG_appName__",
     "default_popup": "popup.html"
   },
-  "options_page": "popup.html",
   "manifest_version": 2
 }
